@@ -1,0 +1,105 @@
+Please input the name of your resume file (e.g., sample_resume.pdf): level3_resume.pdf
+
+------------------- RESUME DETAILS ------------------- 
+Name: BRENDAN WEAVER
+Email: bdw102@columbia.edu
+Phone Number: ['10025', '2127160964', '20182019', '20172018', '20162017', '20132016', '20202021']
+
+
+Education Section:
+- high school
+- Bachelor
+
+
+Skills Section:
+- python
+- machine learning
+- Ai
+- ai
+- deep learning
+
+
+Job Titles:
+No previous career.
+
+
+General Section:
+BRENDAN WEAVER
+549 Riverside Drive, New York, NY 10025 •
+(212) 716-0964 • bdw102@columbia.edu
+EDUCATION:
+Columbia University, School of General Studies, New York, NY
+Bachelor of Arts in Political Science, GPA: 3.4/4.0    
+Expected May 2024
+Related Coursework: Strategy Formulation, Leadership in Organization, Constitutional
+Law: Presidential-Congressional Relations, Strategic Intelligence/Political Decision
+Making
+EXPERIENCE:
+NBC Universal, Business Development Intern, NBC News, New York, NY
+2023-Present
+• Develop presentations for news correspondents by conducting research on
+business consultants providing Hostile Environment Training to journalists broadcasting
+from dangerous locations
+• Supervise and maintain news correspondents’ training schedules to ensure
+successful completion of instructional program
+• Coordinate and manage NBC Universal’s veteran affinity group events and
+conferences to strengthen membership base
+The New York Times “At War” Blog, Contributor, New York, NY
+2022-Present
+• Write about experiences and life lessons while serving in the US Army and its role
+in furthering education
+US Army, Airbone Infantry
+Squad Leader in Alpha Company, ⅙9th Infantry, New York National Guard, New
+York, NY 2018-2019
+• Managed and trained a 9-person infantry unit in basic military skills in preparation
+for possible worldwide deployment
+• Instructed over 500 soldiers in media relations during unit’s annual summer
+training
+Training Room Noncommissioned Officer in Charge, Ft. Richardson, AK;
+Combat Outpost, Afghanistan
+2017-2018• Supervised a team of 2 in charge of personnel and communication matters in a
+90-person company
+• Organized company’s paperwork and records ensuring that all files were properly
+distributed and completed
+Charlie Troop Air Noncommissioned Officer in Charge, Combat Outpost,
+Afghanistan 2016-2017
+• Arranged helicopter assets coming into combat outpost to resupply unit and airlift
+personnel to other locations
+• Aided helicopter crews and supervised personnel in downloading all military
+equipment, supplies, and passengers into and out of a combat zone
+Airborne Infantryman, C TRP 1-40 Cavalry, Airborne, Ft. Richardson, AK; Baghdad,
+Iraq 2013-2016
+• Deployed to Operation Iraqi Freedom from October 2010 to November 2011 as
+grenadier in a 20-person Scout Reconnaissance Platoon accomplishing an estimated
+200 combat missions
+• Served time as a team leader in charge of 2 additional individuals while in Iraq
+LEADERSHIP ACTIVITIES:
+Columbia University, Military Veterans Club, New York, NY
+Vice President
+2022-Present
+• Created and implemented the “Veteran Career Initiative” at Columbia, which
+included 3 skill-building workshops, 10 employer presentations with a networking
+component, and 15 recruiting events
+Community Service Chair, New York, NY
+2020-2021
+• Communicated with local service organizations to develop outreach opportunities
+for the organization’s membership
+• Coordinated community service involvement including clothing drives, homeless
+shelter visits, and tutoring for middle school-aged children from disadvantaged
+backgrounds
+VOLUNTEER EXPERIENCE:
+East Bronx Futures Academy, New York, NY
+2020-Present
+Volunteer
+• Coach and prepare local teenagers for SAT, ACT, and TACHS examinations• Design and teach individualized science curriculum to a group of 20 high school
+students
+90% accuracy, precision, machine learning,, deep learning, python, french language Jan
+2024-Present
+SKILLS & INTERESTS:
+Skills: Spanish fluency; Proficient in Microsoft Word, Excel, PowerPoint, Outlook
+Interests: Distance running, biographical and geopolitical literature, and editing
+Wikipedia articles
+
+
+Career Trajectory:
+No previous career.

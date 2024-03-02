@@ -1,0 +1,69 @@
+Please input the name of your resume file (e.g., sample_resume.pdf): easy_level1_b.docx
+
+------------------- RESUME DETAILS -------------------    
+Name:  Joseph Alan Kempner 
+Email: jak917@columbia.edu
+Phone Number: ['10027', '6425550000']
+
+
+Education Section:
+- High School
+
+
+Skills Section:
+- HTML
+- ai
+- Ai
+
+
+Job Titles:
+No previous career.
+
+
+General Section:
+Joseph Alan Kempner                                       
+                                              0101 Lerner Hall, New York, NY 10027                                  
+                                                          
+                                                          
+  jak917@columbia.edu | 642-555-0000                      
+                                                          
+                                                          
+                                 www.josephalankempner.com                                                          
+                                      EDUCATON  Columbia University, Columbia College                               
+                                                          
+                               New York, NY BA in English & Comparative Literature, 3.4 GPA                         
+                                                          
+                        May 2025 Relevant Coursework: Statistics, Sociology, Readings in Law & Justice, Literary Texts — Critical Methods New York University, Tisch School of the Arts                                                 
+                                                        New York, NY Summer Filmmaker’s Workshop                    
+                                                          
+                                        Jul. 2020 – Aug. 2020   PROFESHONAL EXPERIENCE  Columbia University Libraries                                                         
+                                                          
+                          New York, NY Circulation Desk Specialist                                                  
+                                                          
+                        Jan 2023 – Present
+      •    Handled 100+ text requests weekly, including monitoring online system and following up on email requests.
+      •    Organized physical texts according to appropriate classification systems.
+      •    Delivered on-site support to students for booking room requests, general library questions and in exploring new texts.    Brooklyn Small Business Development Center                                                         
+                                               Brooklyn, NY Administrative Intern                                   
+                                                          
+                                           May 2022 – May 2023       •    Maintained primary calender for office and scheduled consultations between entrepreneurs and business advisors for coaching services.       •    Processed expenses, documented event attendance, prepared physical materials, and reserved space to contribute to Center’s efficiency.       •    Grew Facebook and Instagram presence, prepared email campaigns distributed to 5,000+ subscribers, and updated website to improve Center’s marketing initiatives.       •    Implemented center’s first self-scheduling system, reducing administrative time spent on scheduling by 50%.       •    Developed crowdfunding campaigns with clients to help support business plans.   Office of Undergraduate Student Life, Columbia University                   
+                                                         New York, NY Social Programmer for New Student Orientation Program                                                   
+     Feb. 2022 – Aug. 2022
+      •    Developed, coordinated and supervised social events for 2,000+ incoming students, including performances, information sessions, tours and a dance party at the Intrepid Sea, Air & Space Museum.
+      •    Supported recruitment and training of 200 orientation leaders and crew chiefs to provide seamless program for incoming students.   EXTRACURRICULARS  Latenite Theatre, Columbia University                                   
+                                                          
+                           New York, NY President         
+                                                          
+                                                          
+                                        May 2023 – Present
+      •    Oversee nine-member executive board and a troupe of 45+ members throughout performance cycle.
+      •    Calendar performances, arrange use of facilities, and work with administrative bodies to ensure group compliance.
+      •    Lead rehearsals, plan recruitment events and cultivate diverse community with passion for creative experimentatio          •    Productions: Bohem10n Rhap20dy, Actor (Spring 2019); Late Night at Madame Sequester’s, Writer/Actor (Spring 2018); The Affair of Weathersby Castle, Co-Director (Fall 2017); Peter Peter Pumpkin-Eater, Co-Director (Spring 2017)   Undergraduate Recruitment Committee, Columbia University                                                                     New York
+
+      •    Lead campus tours, speak on informational panels, and conduct prospective student interviews.   ADDITIONAL PRODUCTIONS  CENTO                                                          Director                                         Columbia University Parforming Arts League Unweaving the Core                             Athena, Narcissus, Suitor     Columbia University Center for the Core Curriculum The Morning Show Producer           Stage Manager                          Chicago Public High School   SKILLS  Creative Software: Adobe (Premiere, After Effects, Photoshop), Final Cut Pro, Final Cut Express, iMovie Productivity Software: Microsoft (Word, PowerPoint, Excel, Outlook), Apple Pages, Google Docs
+Web: Facebook, Twitter, Drupal, Constant Contact, Hootsuite, HTML (basic)
+Languages: Proficient in Spanish & French
+
+
+Career Trajectory:
+No previous career.
